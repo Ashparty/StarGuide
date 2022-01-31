@@ -14,7 +14,7 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 
 > Speed: 400
 
-> Max-Per-Shot: 2
+> Max Per Shot: 2
 
 ---
 # Proton Torpedos
@@ -29,7 +29,7 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 
 > Speed: 70
 
-> Max-Per-Shot: 5
+> Max Per Shot: 5
 
 ---
 # Auto-Turrets
@@ -44,7 +44,7 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 
 > Speed: 150
 
-> Max-Per-Shot: N/A
+> Max Per Shot: N/A
 
 ---
 # Heavy Lasers
@@ -59,7 +59,7 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 
 > Speed: 50
 
-> Max-Per-Shot: N/A
+> Max Per Shot: N/A
 
 > Required Ammo: 2
 
@@ -76,7 +76,7 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 
 > Speed: (500*1000) per second (May be innaccurate)
 
-> Max-Per-Shot: N/A
+> Max Per Shot: N/A
 
 
 ---
