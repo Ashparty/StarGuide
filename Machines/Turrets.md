@@ -30,7 +30,7 @@ Technical Information:
 
 > Projectiles: 1
 
-> Cooldown: 0.25
+> Cooldown: 25ms
 
 ---
 # Heavy Turret
@@ -61,7 +61,7 @@ Technical Information:
 
 > Projectiles: 2
 
-> Cooldown: 0.5
+> Cooldown: 50ms
 
 ---
 # Tri-Barrel Turret
@@ -92,7 +92,7 @@ Technical:
 
 > Projectiles: 3
 
-> Cooldown: 3
+> Cooldown: 3s
 
 ---
 # See also
