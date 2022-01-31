@@ -44,8 +44,6 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 
 > Speed: 150
 
-> Max Per Shot: N/A
-
 ---
 # Heavy Lasers
 
@@ -58,8 +56,6 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 > Range: 200
 
 > Speed: 50
-
-> Max Per Shot: N/A
 
 > Required Ammo: 2
 
@@ -75,9 +71,6 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 > Range: 140
 
 > Speed: (500*1000) per second (May be innaccurate)
-
-> Max Per Shot: N/A
-
 
 ---
 # See Also
