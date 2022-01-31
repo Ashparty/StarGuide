@@ -70,7 +70,7 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 
 > Range: 140
 
-> Speed: (500*1000) per second (May be innaccurate)
+> 2, speeds up to 1000 after 500ms.
 
 ---
 # See Also
