@@ -23,6 +23,15 @@ Materials:
 
 > 1x Oak Sign
 
+Technical Information:
+> Power Usage: 6000
+
+> Explosion Power: 4
+
+> Projectiles: 1
+
+> Cooldown: 0.25
+
 ---
 # Heavy Turret
 
@@ -45,6 +54,15 @@ Materials:
 
 > 1x Oak Sign
 
+Technical Information:
+> Power Usage: 8000
+
+> Explosion Power: 4
+
+> Projectiles: 2
+
+> Cooldown: 0.5
+
 ---
 # Tri-Barrel Turret
 
@@ -66,6 +84,15 @@ Materials:
 > 15x Stairs
 
 > 1x Oak Sign
+
+Technical: 
+> Power Usage: 45000
+
+> Explosion Power: 6
+
+> Projectiles: 3
+
+> Cooldown: 3
 
 ---
 # See also
